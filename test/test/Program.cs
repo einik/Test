@@ -10,6 +10,7 @@ namespace test
     {
         static void Main(string[] args)
         {
+            string str = "";
             
             Console.ReadKey();
         }
